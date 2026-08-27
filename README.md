@@ -16,7 +16,7 @@ Senior Salesforce Marketing Cloud engineer and hands-on architect with 7+ years 
 - **Development & Personalization:** Advanced SQL, SFMC System Data Views, AMPscript, SSJS, responsive HTML/CSS, REST and SOAP APIs, segmentation, dynamic content, cross-client email development
 - **Data, Integration & Governance:** Marketing Cloud Connect, Service Cloud synchronization, Synchronized Data Extensions, EDW file drops, data mappings, validation controls, Data 360
 - **Reporting & Optimization:** Intelligence Reports, scheduled campaign reporting, custom dashboards, engagement KPIs, advanced personalization, A/B testing
-- **Deliverability, Privacy & Subscriber Governance:** IP warming, Google Postmaster Tools, Microsoft sender reputation, Validity, CAN-SPAM, GDPR coordination, preference centers, consent and opt-out execution, suppression strategies, frequency management
+- **Deliverability, Domains, Privacy & Subscriber Governance:** SFMC sender authentication and domain configuration, DNS, SPF, DKIM, DMARC, Reply Mail Management, SSL, IP warming, Google Postmaster Tools, Microsoft sender reputation, Validity, CAN-SPAM, GDPR coordination, preference centers, consent and opt-out execution, suppression strategies, frequency management
 - **Technical Operations & Delivery:** Campaign triage, email-rendering and automation troubleshooting, multi-instance QA, email accessibility testing with specialized tools, Agile/Scrum delivery, mentoring, production support, formal change management, Git/GitHub familiarity
 
 ## Professional Experience
