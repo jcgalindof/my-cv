@@ -7,7 +7,7 @@ Cancún, Quintana Roo, Mexico | recruiters@cristobalgalindo.com
 
 ## Professional Summary
 
-Senior Salesforce Marketing Cloud engineer and hands-on architect with 7+ years of experience designing, building, and operating enterprise lifecycle, transactional, and customer-critical communications across retail, prescription services, pharmaceuticals, and healthcare. Currently architects an SFMC environment with 35 million subscribers and 315 million emails sent in a recent 30-day period. Advanced in Email Studio, Content Builder, responsive HTML/CSS, SQL, AMPscript, SSJS, REST/SOAP APIs, Journey Builder, Automation Studio, Data Extensions, personalization, and deliverability. Combines deep implementation skills with the delivery discipline important to healthcare and pharma teams: data quality, preference and suppression management, email accessibility, documented QA, controlled releases, campaign triage, and reliable production support. Translates business needs into scalable technical solutions, mentors distributed engineers, and communicates effectively with marketing, operations, engineering, agency, and client stakeholders. Bilingual English/Spanish; experienced working autonomously in US business hours.
+Senior Salesforce Marketing Cloud engineer and hands-on architect with 7+ years of experience designing, building, and operating enterprise lifecycle, transactional, and customer-critical communications across retail, prescription services, pharmaceuticals, and healthcare. Currently architects an SFMC environment with 35 million subscribers and 315 million emails sent in a recent 30-day period. Advanced in Email Studio, Content Builder, responsive HTML/CSS, SQL, AMPscript, SSJS, REST/SOAP APIs, Journey Builder, Automation Studio, Data Extensions, personalization, and deliverability. Combines deep implementation skills with the delivery discipline important to healthcare and pharma teams: data quality, CAN-SPAM-aligned preference and suppression management, GDPR coordination, email accessibility, documented QA, controlled releases, campaign triage, and reliable production support. Translates business needs into scalable technical solutions, mentors distributed engineers, and communicates effectively with marketing, operations, engineering, agency, and client stakeholders. Bilingual English/Spanish; experienced working autonomously in US business hours.
 
 ## Core Expertise
 
@@ -16,7 +16,7 @@ Senior Salesforce Marketing Cloud engineer and hands-on architect with 7+ years 
 - **Development & Personalization:** Advanced SQL, SFMC System Data Views, AMPscript, SSJS, responsive HTML/CSS, REST and SOAP APIs, segmentation, dynamic content, cross-client email development
 - **Data, Integration & Governance:** Marketing Cloud Connect, Service Cloud synchronization, Synchronized Data Extensions, EDW file drops, data mappings, validation controls, Data 360
 - **Reporting & Optimization:** Intelligence Reports, scheduled campaign reporting, custom dashboards, engagement KPIs, advanced personalization, A/B testing
-- **Deliverability & Subscriber Governance:** IP warming, Google Postmaster Tools, Microsoft sender reputation, Validity, preference centers, consent execution, suppression strategies, frequency management
+- **Deliverability, Privacy & Subscriber Governance:** IP warming, Google Postmaster Tools, Microsoft sender reputation, Validity, CAN-SPAM, GDPR coordination, preference centers, consent and opt-out execution, suppression strategies, frequency management
 - **Technical Operations & Delivery:** Campaign triage, email-rendering and automation troubleshooting, multi-instance QA, email accessibility testing with specialized tools, Agile/Scrum delivery, mentoring, production support, formal change management, Git/GitHub familiarity
 
 ## Professional Experience
@@ -44,6 +44,7 @@ Senior Salesforce Marketing Cloud engineer and hands-on architect with 7+ years 
 - Supported global SFMC programs across multiple regions and created dozens of campaign-specific Intelligence Reports for the US market of a global beauty enterprise, covering always-on and time-bound campaigns with sends, opens, clicks, open rate, CTR, CTOR, and unsubscribe-rate reporting.
 - Built a custom reporting dashboard in CloudPages using advanced SQL across `_JourneyActivity`, `_Journey`, `_Job`, and `_Sent` to attribute send volume to individual emails within journeys.
 - Recovered Google sender reputation from red to yellow for a Latin American consumer-goods operation after an accelerated IP-warming schedule, resetting volume progression and stakeholder expectations using Google Postmaster Tools, Microsoft monitoring, and Validity.
+- Coordinated GDPR-related delivery with European teams for a global consumer-goods organization and applied CAN-SPAM requirements through subscriber preferences, opt-out handling, and suppression controls.
 - Designed journeys, A/B tests, advanced segmentation, dynamic content, and personalization with SQL, AMPscript, and SSJS while producing solution designs, integration maps, and data-flow documentation for distributed teams.
 
 ### Zigatta
