@@ -13,7 +13,6 @@ Senior Salesforce Marketing Cloud engineer and hands-on architect with 7+ years 
 
 - **SFMC Architecture & Engineering:** Email Studio, Email Builder, Content Builder, Journey Builder, Automation Studio, Transactional Messaging, Data Extensions, CloudPages, reusable components, email design systems
 - **Development & Personalization:** Advanced SQL, SFMC System Data Views, AMPscript, SSJS, responsive HTML/CSS, REST and SOAP APIs, segmentation, dynamic content, cross-client email development
-- **Healthcare & Pharma-Relevant Delivery:** Prescription-services communications, pharmaceutical and healthcare campaigns, customer preference management, suppression and frequency controls, data validation, documented QA, and controlled deployments
 - **Data, Integration & Governance:** Marketing Cloud Connect, Service Cloud synchronization, Synchronized Data Extensions, EDW file drops, data mappings, validation controls, Data 360
 - **Reporting & Optimization:** Intelligence Reports, scheduled campaign reporting, custom dashboards, engagement KPIs, advanced personalization, A/B testing
 - **Deliverability, Domains, Privacy & Subscriber Governance:** SFMC sender authentication and domain configuration, DNS, SPF, DKIM, DMARC, Reply Mail Management, SSL, IP warming, Google Postmaster Tools, Microsoft sender reputation, Validity, CAN-SPAM, GDPR coordination, working familiarity with HIPAA email and sensitive-data handling concepts, preference centers, consent and opt-out execution, suppression strategies, frequency management
