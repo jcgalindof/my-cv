@@ -7,7 +7,7 @@ Cancún, Quintana Roo, Mexico | recruiters@cristobalgalindo.com
 
 ## Professional Summary
 
-Senior Salesforce Marketing Cloud engineer and hands-on architect with 7+ years of experience designing, building, and operating enterprise lifecycle, transactional, and customer-critical communications across retail, prescription services, pharmaceuticals, and healthcare. Currently architects an SFMC environment with 35 million subscribers and 315 million emails sent in a recent 30-day period. Advanced in Email Studio, Content Builder, responsive HTML/CSS, SQL, AMPscript, SSJS, REST/SOAP APIs, Journey Builder, Automation Studio, Data Extensions, personalization, and deliverability. Combines deep implementation skills with the delivery discipline important to healthcare and pharma teams: data quality, preference and suppression management, documented QA, controlled releases, campaign triage, and reliable production support. Translates business needs into scalable technical solutions, mentors distributed engineers, and communicates effectively with marketing, operations, engineering, agency, and client stakeholders. Bilingual English/Spanish; experienced working autonomously in US business hours.
+Senior Salesforce Marketing Cloud engineer and hands-on architect with 7+ years of experience designing, building, and operating enterprise lifecycle, transactional, and customer-critical communications across retail, prescription services, pharmaceuticals, and healthcare. Currently architects an SFMC environment with 35 million subscribers and 315 million emails sent in a recent 30-day period. Advanced in Email Studio, Content Builder, responsive HTML/CSS, SQL, AMPscript, SSJS, REST/SOAP APIs, Journey Builder, Automation Studio, Data Extensions, personalization, and deliverability. Combines deep implementation skills with the delivery discipline important to healthcare and pharma teams: data quality, preference and suppression management, email accessibility, documented QA, controlled releases, campaign triage, and reliable production support. Translates business needs into scalable technical solutions, mentors distributed engineers, and communicates effectively with marketing, operations, engineering, agency, and client stakeholders. Bilingual English/Spanish; experienced working autonomously in US business hours.
 
 ## Core Expertise
 
@@ -17,7 +17,7 @@ Senior Salesforce Marketing Cloud engineer and hands-on architect with 7+ years 
 - **Data, Integration & Governance:** Marketing Cloud Connect, Service Cloud synchronization, Synchronized Data Extensions, EDW file drops, data mappings, validation controls, Data 360
 - **Reporting & Optimization:** Intelligence Reports, scheduled campaign reporting, custom dashboards, engagement KPIs, advanced personalization, A/B testing
 - **Deliverability & Subscriber Governance:** IP warming, Google Postmaster Tools, Microsoft sender reputation, Validity, preference centers, consent execution, suppression strategies, frequency management
-- **Technical Operations & Delivery:** Campaign triage, email-rendering and automation troubleshooting, multi-instance QA, Agile/Scrum delivery, mentoring, production support, formal change management, Git/GitHub familiarity
+- **Technical Operations & Delivery:** Campaign triage, email-rendering and automation troubleshooting, multi-instance QA, email accessibility testing with specialized tools, Agile/Scrum delivery, mentoring, production support, formal change management, Git/GitHub familiarity
 
 ## Professional Experience
 
