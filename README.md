@@ -1,6 +1,6 @@
 # Juan Cristóbal Galindo Fernández
 
-**Senior Salesforce Marketing Cloud Engineer, Architect & Technical Lead | Healthcare & Pharma Experience**
+**Senior Salesforce Marketing Cloud Engineer, Architect & Technical Lead
 
 Cancún, Quintana Roo, Mexico | recruiters@cristobalgalindo.com  
 [LinkedIn](https://www.linkedin.com/in/jcgalindof/) | [Trailblazer](https://www.salesforce.com/trailblazer/jcgalindof) | [GitHub](https://github.com/jcgalindof)
